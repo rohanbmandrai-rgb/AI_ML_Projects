@@ -1,7 +1,11 @@
-numpy 
+pandas
+numpy
 seaborn
 matplotlib
 scikit-learn
-pandas
-tensorflow 
-keras
+catboost
+xgboost
+Flask
+os
+dill
+#-e .
